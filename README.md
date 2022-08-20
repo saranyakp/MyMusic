@@ -1,6 +1,10 @@
 # my_music
 
-A new Flutter project.
+Build an Android App(My Music) using flutter/dart. This
+app allows you to play the songs from the added list of
+songs.
+Tech Stack:- Framework : Flutter (Dart)
+IDE : Android Studio
 
 ## Getting Started
 
